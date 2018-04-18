@@ -1,0 +1,1090 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2018-03-12T13:36:56Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>14805</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s17" ss:Name="Link">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s21" ss:Parent="s16">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s23" ss:Parent="s17">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#C1C3AD"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#C1C3AD"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#C1C3AD"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#C1C3AD"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Tabelle1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="144" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="46.5" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:Width="75"/>
+   <Column ss:Width="114.75"/>
+   <Column ss:Width="123"/>
+   <Column ss:Width="193.5"/>
+   <Row ss:Index="2" ss:Height="18.75">
+    <Cell ss:Index="2" ss:StyleID="s18"><Data ss:Type="String">kuenstler_id</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">kuenstler_vorname</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">kuenstler_nachname</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">kuenstler_normdatensatz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0001</Data></Cell>
+    <Cell><Data ss:Type="String">Koloman</Data></Cell>
+    <Cell><Data ss:Type="String">Moser</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118737112"><Data
+      ss:Type="String">http://d-nb.info/gnd/118737112</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0002</Data></Cell>
+    <Cell><Data ss:Type="String">Josef</Data></Cell>
+    <Cell><Data ss:Type="String">Engelhart</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/119026694"><Data
+      ss:Type="String">http://d-nb.info/gnd/119026694</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0003</Data></Cell>
+    <Cell><Data ss:Type="String">Max</Data></Cell>
+    <Cell><Data ss:Type="String">Burckhard</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/117161144"><Data
+      ss:Type="String">http://d-nb.info/gnd/117161144</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0004</Data></Cell>
+    <Cell><Data ss:Type="String">Joseph Maria </Data></Cell>
+    <Cell><Data ss:Type="String">Olbrich</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118589768"><Data
+      ss:Type="String">http://d-nb.info/gnd/118589768</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0005</Data></Cell>
+    <Cell><Data ss:Type="String">Josef</Data></Cell>
+    <Cell><Data ss:Type="String">Hoffmann</Data></Cell>
+    <Cell ss:StyleID="s21" ss:HRef="http://d-nb.info/gnd/11855252X"><Data
+      ss:Type="String">http://d-nb.info/gnd/11855252X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0006</Data></Cell>
+    <Cell><Data ss:Type="String">Gustav</Data></Cell>
+    <Cell><Data ss:Type="String">Klimt</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118563289"><Data
+      ss:Type="String">http://d-nb.info/gnd/118563289</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0007</Data></Cell>
+    <Cell><Data ss:Type="String">Adolf</Data></Cell>
+    <Cell><Data ss:Type="String">Böhm</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="https://www.wikidata.org/wiki/Q363408"><Data
+      ss:Type="String">https://www.wikidata.org/wiki/Q363408</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0008</Data></Cell>
+    <Cell><Data ss:Type="String">Walter</Data></Cell>
+    <Cell><Data ss:Type="String">Crane</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118522639"><Data
+      ss:Type="String">http://d-nb.info/gnd/118522639</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0009</Data></Cell>
+    <Cell><Data ss:Type="String">Ludwig</Data></Cell>
+    <Cell><Data ss:Type="String">Hevesi</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/11678508X"><Data
+      ss:Type="String">http://d-nb.info/gnd/11678508X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0010</Data></Cell>
+    <Cell><Data ss:Type="String">John Macallan</Data></Cell>
+    <Cell><Data ss:Type="String">Swan</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/174336063"><Data
+      ss:Type="String">http://d-nb.info/gnd/174336063</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0011</Data></Cell>
+    <Cell><Data ss:Type="String">Alphonse</Data></Cell>
+    <Cell><Data ss:Type="String">Mucha</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118737260"><Data
+      ss:Type="String">http://d-nb.info/gnd/118737260</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0012</Data></Cell>
+    <Cell><Data ss:Type="String">Othmar</Data></Cell>
+    <Cell><Data ss:Type="String">Schimkowitz</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1029912297"><Data
+      ss:Type="String">http://d-nb.info/gnd/1029912297</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0013</Data></Cell>
+    <Cell><Data ss:Type="String">Ludwig</Data></Cell>
+    <Cell><Data ss:Type="String">von Herterich</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/116753056"><Data
+      ss:Type="String">http://d-nb.info/gnd/116753056</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0014</Data></Cell>
+    <Cell><Data ss:Type="String">Hermann </Data></Cell>
+    <Cell><Data ss:Type="String">Bahr</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118505955"><Data
+      ss:Type="String">http://d-nb.info/gnd/118505955</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0015</Data></Cell>
+    <Cell><Data ss:Type="String">Wilhelm</Data></Cell>
+    <Cell><Data ss:Type="String">List</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/133653943"><Data
+      ss:Type="String">http://d-nb.info/gnd/133653943</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0016</Data></Cell>
+    <Cell><Data ss:Type="String">Berta</Data></Cell>
+    <Cell><Data ss:Type="String">Zuckerkandl</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118758160"><Data
+      ss:Type="String">http://d-nb.info/gnd/118758160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0017</Data></Cell>
+    <Cell><Data ss:Type="String">Edward Arthur</Data></Cell>
+    <Cell><Data ss:Type="String">Walton</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1136604472"><Data
+      ss:Type="String">http://d-nb.info/gnd/1136604472</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0018</Data></Cell>
+    <Cell><Data ss:Type="String">Constantin</Data></Cell>
+    <Cell><Data ss:Type="String">Meunier</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118733222"><Data
+      ss:Type="String">http://d-nb.info/gnd/118733222</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0019</Data></Cell>
+    <Cell><Data ss:Type="String">Aman-Jean</Data></Cell>
+    <Cell><Data ss:Type="String">Edmond</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/119203979"><Data
+      ss:Type="String">http://d-nb.info/gnd/119203979</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0020</Data></Cell>
+    <Cell><Data ss:Type="String">Friedrich</Data></Cell>
+    <Cell><Data ss:Type="String">Koenig</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/1013863143"
+     x:HRefScreenTip="http://d-nb.info/gnd/1013863143"><Data ss:Type="String">http://d-nb.info/gnd/1013863143</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0021</Data></Cell>
+    <Cell><Data ss:Type="String">John Singer</Data></Cell>
+    <Cell><Data ss:Type="String">Sargent</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118794582"
+     x:HRefScreenTip="http://d-nb.info/gnd/118794582"><Data ss:Type="String">http://d-nb.info/gnd/118794582</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0022</Data></Cell>
+    <Cell><Data ss:Type="String">Franz</Data></Cell>
+    <Cell><Data ss:Type="String">Stuck</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118619543"><Data
+      ss:Type="String">http://d-nb.info/gnd/118619543</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0023</Data></Cell>
+    <Cell><Data ss:Type="String">Jean</Data></Cell>
+    <Cell><Data ss:Type="String">Dampt</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/116020709"><Data
+      ss:Type="String">http://d-nb.info/gnd/116020709</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0024</Data></Cell>
+    <Cell><Data ss:Type="String">Charles</Data></Cell>
+    <Cell><Data ss:Type="String">van der Stappen</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/117213055"><Data
+      ss:Type="String">http://d-nb.info/gnd/117213055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0025</Data></Cell>
+    <Cell><Data ss:Type="String">Pascal</Data></Cell>
+    <Cell><Data ss:Type="String">Dagnan-Bouveret</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/122964314"><Data
+      ss:Type="String">http://d-nb.info/gnd/122964314</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0026</Data></Cell>
+    <Cell><Data ss:Type="String">Ville </Data></Cell>
+    <Cell><Data ss:Type="String">Vallgren</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/124219403"><Data
+      ss:Type="String">http://d-nb.info/gnd/124219403</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0027</Data></Cell>
+    <Cell><Data ss:Type="String">Eduard</Data></Cell>
+    <Cell><Data ss:Type="String">Beyrer jr.</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/116160136"><Data
+      ss:Type="String">http://d-nb.info/gnd/116160136</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0028</Data></Cell>
+    <Cell><Data ss:Type="String">Herman</Data></Cell>
+    <Cell><Data ss:Type="String">Kähler</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/104791896X"
+     x:HRefScreenTip="http://d-nb.info/gnd/104791896X"><Data ss:Type="String">http://d-nb.info/gnd/104791896X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0029</Data></Cell>
+    <Cell><Data ss:Type="String">François-Rupert </Data></Cell>
+    <Cell><Data ss:Type="String">Carabin</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/124298516"><Data
+      ss:Type="String">http://d-nb.info/gnd/124298516</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0030</Data></Cell>
+    <Cell><Data ss:Type="String">Alfred Philippe</Data></Cell>
+    <Cell><Data ss:Type="String">Roll</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/116600918"><Data
+      ss:Type="String">http://d-nb.info/gnd/116600918</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0031</Data></Cell>
+    <Cell><Data ss:Type="String">Fernand</Data></Cell>
+    <Cell><Data ss:Type="String">Khnopff</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118561871"
+     x:HRefScreenTip="http://d-nb.info/gnd/118561871"><Data ss:Type="String">http://d-nb.info/gnd/118561871</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0032</Data></Cell>
+    <Cell><Data ss:Type="String">Heinrich </Data></Cell>
+    <Cell><Data ss:Type="String">von Zügel</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118637312"><Data
+      ss:Type="String">http://d-nb.info/gnd/118637312</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0033</Data></Cell>
+    <Cell><Data ss:Type="String">Rudolf</Data></Cell>
+    <Cell><Data ss:Type="String">Bacher</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/130098140"><Data
+      ss:Type="String">http://d-nb.info/gnd/130098140</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0034</Data></Cell>
+    <Cell><Data ss:Type="String">Georg</Data></Cell>
+    <Cell><Data ss:Type="String">Sauter</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/141050640"
+     x:HRefScreenTip="http://d-nb.info/gnd/141050640"><Data ss:Type="String">http://d-nb.info/gnd/141050640</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0035</Data></Cell>
+    <Cell><Data ss:Type="String">Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Liljefors</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/12784922X"><Data
+      ss:Type="String">http://d-nb.info/gnd/12784922X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0036</Data></Cell>
+    <Cell><Data ss:Type="String">Maximilian </Data></Cell>
+    <Cell><Data ss:Type="String">Pirner</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/174258119"><Data
+      ss:Type="String">http://d-nb.info/gnd/174258119</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0037</Data></Cell>
+    <Cell><Data ss:Type="String">Maximilian </Data></Cell>
+    <Cell><Data ss:Type="String">Kurzweil</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/129207594"><Data
+      ss:Type="String">http://d-nb.info/gnd/129207594</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0038</Data></Cell>
+    <Cell><Data ss:Type="String">Hugo</Data></Cell>
+    <Cell><Data ss:Type="String">Salus</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/119222140"><Data
+      ss:Type="String">http://d-nb.info/gnd/119222140</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0039</Data></Cell>
+    <Cell><Data ss:Type="String">Hans</Data></Cell>
+    <Cell><Data ss:Type="String">Schwaiger</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/121089703"
+     x:HRefScreenTip="http://d-nb.info/gnd/121089703"><Data ss:Type="String">http://d-nb.info/gnd/121089703</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0040</Data></Cell>
+    <Cell><Data ss:Type="String">Vojtech Albert</Data></Cell>
+    <Cell><Data ss:Type="String">Hynais</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/11905101X"><Data
+      ss:Type="String">http://d-nb.info/gnd/11905101X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0041</Data></Cell>
+    <Cell><Data ss:Type="String">Wilhelm</Data></Cell>
+    <Cell><Data ss:Type="String">Schölermann</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/102210454"
+     x:HRefScreenTip="http://d-nb.info/gnd/102210454"><Data ss:Type="String">http://d-nb.info/gnd/102210454</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0042</Data></Cell>
+    <Cell><Data ss:Type="String">Johann Victor</Data></Cell>
+    <Cell><Data ss:Type="String">Krämer</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/129284114"><Data
+      ss:Type="String">http://d-nb.info/gnd/129284114</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0043</Data></Cell>
+    <Cell><Data ss:Type="String">Alfred</Data></Cell>
+    <Cell><Data ss:Type="String">Roller</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118791036"><Data
+      ss:Type="String">http://d-nb.info/gnd/118791036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0044</Data></Cell>
+    <Cell><Data ss:Type="String">Jacek</Data></Cell>
+    <Cell><Data ss:Type="String">Malczewski</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/119246449"><Data
+      ss:Type="String">http://d-nb.info/gnd/119246449</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0045</Data></Cell>
+    <Cell><Data ss:Type="String">Arthur</Data></Cell>
+    <Cell><Data ss:Type="String">Strasser</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/132590484"><Data
+      ss:Type="String">http://d-nb.info/gnd/132590484</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0046</Data></Cell>
+    <Cell><Data ss:Type="String">Rudolf von</Data></Cell>
+    <Cell><Data ss:Type="String">Alt</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118502204"><Data
+      ss:Type="String">http://d-nb.info/gnd/118502204</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0047</Data></Cell>
+    <Cell><Data ss:Type="String">Adolf</Data></Cell>
+    <Cell><Data ss:Type="String">Hölzel</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1073380262"><Data
+      ss:Type="String">http://d-nb.info/gnd/1073380262</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0048</Data></Cell>
+    <Cell><Data ss:Type="String">Maximilian </Data></Cell>
+    <Cell><Data ss:Type="String">Lenz</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/174320426"><Data
+      ss:Type="String">http://d-nb.info/gnd/174320426</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0049</Data></Cell>
+    <Cell><Data ss:Type="String">Leopold</Data></Cell>
+    <Cell><Data ss:Type="String">Kainradl</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/132367165"><Data
+      ss:Type="String">http://d-nb.info/gnd/132367165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0050</Data></Cell>
+    <Cell><Data ss:Type="String">Rainer Maria</Data></Cell>
+    <Cell><Data ss:Type="String">Rilke</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1058806343"><Data
+      ss:Type="String">http://d-nb.info/gnd/1058806343</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0051</Data></Cell>
+    <Cell><Data ss:Type="String">Jan</Data></Cell>
+    <Cell><Data ss:Type="String">Kotera</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/123950988"
+     x:HRefScreenTip="http://d-nb.info/gnd/123950988"><Data ss:Type="String">http://d-nb.info/gnd/123950988</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0052</Data></Cell>
+    <Cell><Data ss:Type="String">Martin</Data></Cell>
+    <Cell><Data ss:Type="String">Gerlach</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/130589845"><Data
+      ss:Type="String">http://d-nb.info/gnd/130589845</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0053</Data></Cell>
+    <Cell><Data ss:Type="String">Robert</Data></Cell>
+    <Cell><Data ss:Type="String">Brough</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1084659174"><Data
+      ss:Type="String">http://d-nb.info/gnd/1084659174</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0054</Data></Cell>
+    <Cell><Data ss:Type="String">Jozef</Data></Cell>
+    <Cell><Data ss:Type="String">Mehoffer</Data></Cell>
+    <Cell ss:StyleID="s23" ss:HRef="http://d-nb.info/gnd/119273985"
+     x:HRefScreenTip="http://d-nb.info/gnd/119273985"><Data ss:Type="String">http://d-nb.info/gnd/119273985</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0055</Data></Cell>
+    <Cell><Data ss:Type="String">Alexandre</Data></Cell>
+    <Cell><Data ss:Type="String">Charpentier</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/116492163"
+     x:HRefScreenTip="http://d-nb.info/gnd/116492163"><Data ss:Type="String">http://d-nb.info/gnd/116492163</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0056</Data></Cell>
+    <Cell><Data ss:Type="String">John White</Data></Cell>
+    <Cell><Data ss:Type="String">Alexander</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/1146461607"
+     x:HRefScreenTip="http://d-nb.info/gnd/1146461607"><Data ss:Type="String">http://d-nb.info/gnd/1146461607</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0057</Data></Cell>
+    <Cell><Data ss:Type="String">Hans</Data></Cell>
+    <Cell><Data ss:Type="String">Olde</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/117115304"
+     x:HRefScreenTip="http://d-nb.info/gnd/117115304"><Data ss:Type="String">http://d-nb.info/gnd/117115304</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0058</Data></Cell>
+    <Cell><Data ss:Type="String">Ludwig</Data></Cell>
+    <Cell><Data ss:Type="String">Sigmundt</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1033998893"><Data
+      ss:Type="String">http://d-nb.info/gnd/1033998893</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0059</Data></Cell>
+    <Cell><Data ss:Type="String">Armand</Data></Cell>
+    <Cell><Data ss:Type="String">Berton</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="https://www.wikidata.org/wiki/Q16039631"><Data
+      ss:Type="String">https://www.wikidata.org/wiki/Q16039631</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0060</Data></Cell>
+    <Cell><Data ss:Type="String">Frank</Data></Cell>
+    <Cell><Data ss:Type="String">Brangwyn</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/119317753"><Data
+      ss:Type="String">http://d-nb.info/gnd/119317753</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0061</Data></Cell>
+    <Cell><Data ss:Type="String">Auguste</Data></Cell>
+    <Cell><Data ss:Type="String">Rodin</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118601717"
+     x:HRefScreenTip="http://d-nb.info/gnd/118601717"><Data ss:Type="String">http://d-nb.info/gnd/118601717</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0062</Data></Cell>
+    <Cell><Data ss:Type="String">Jesper</Data></Cell>
+    <Cell><Data ss:Type="String">Wengel</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/109102765X"><Data
+      ss:Type="String">http://d-nb.info/gnd/109102765X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0063</Data></Cell>
+    <Cell><Data ss:Type="String">Eugene</Data></Cell>
+    <Cell><Data ss:Type="String">Carriere</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118668595"
+     x:HRefScreenTip="http://d-nb.info/gnd/118668595"><Data ss:Type="String">http://d-nb.info/gnd/118668595</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0064</Data></Cell>
+    <Cell><Data ss:Type="String">Valdemar</Data></Cell>
+    <Cell><Data ss:Type="String">Schönheyder Möller</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="https://www.wikidata.org/wiki/Q12340470"><Data
+      ss:Type="String">https://www.wikidata.org/wiki/Q12340470</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0065</Data></Cell>
+    <Cell><Data ss:Type="String">Paul Albert</Data></Cell>
+    <Cell><Data ss:Type="String">Besnard</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/119053454"
+     x:HRefScreenTip="http://d-nb.info/gnd/119053454"><Data ss:Type="String">http://d-nb.info/gnd/119053454</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0066</Data></Cell>
+    <Cell><Data ss:Type="String">Eugene</Data></Cell>
+    <Cell><Data ss:Type="String">Grasset</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/123520002"
+     x:HRefScreenTip="http://d-nb.info/gnd/123520002"><Data ss:Type="String">http://d-nb.info/gnd/123520002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0067</Data></Cell>
+    <Cell><Data ss:Type="String">Charles</Data></Cell>
+    <Cell><Data ss:Type="String">Fromuth</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/131943987"
+     x:HRefScreenTip="http://d-nb.info/gnd/131943987"><Data ss:Type="String">http://d-nb.info/gnd/131943987</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0068</Data></Cell>
+    <Cell><Data ss:Type="String">Leon </Data></Cell>
+    <Cell><Data ss:Type="String">Wyczółkowski</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118907751"
+     x:HRefScreenTip="http://d-nb.info/gnd/118907751"><Data ss:Type="String">http://d-nb.info/gnd/118907751</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0069</Data></Cell>
+    <Cell><Data ss:Type="String">Peter</Data></Cell>
+    <Cell><Data ss:Type="String">Kroyer</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118987534"
+     x:HRefScreenTip="http://d-nb.info/gnd/118987534"><Data ss:Type="String">http://d-nb.info/gnd/118987534</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0070</Data></Cell>
+    <Cell><Data ss:Type="String">Leon </Data></Cell>
+    <Cell><Data ss:Type="String">Frederic</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/132272385"
+     x:HRefScreenTip="http://d-nb.info/gnd/132272385"><Data ss:Type="String">http://d-nb.info/gnd/132272385</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0071</Data></Cell>
+    <Cell><Data ss:Type="String">Carl</Data></Cell>
+    <Cell><Data ss:Type="String">Moll</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118882368"
+     x:HRefScreenTip="http://d-nb.info/gnd/118882368"><Data ss:Type="String">http://d-nb.info/gnd/118882368</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0072</Data></Cell>
+    <Cell><Data ss:Type="String">Pierre</Data></Cell>
+    <Cell><Data ss:Type="String">Jeanniot</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/137847947"
+     x:HRefScreenTip="http://d-nb.info/gnd/137847947"><Data ss:Type="String">http://d-nb.info/gnd/137847947</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0073</Data></Cell>
+    <Cell><Data ss:Type="String">Albert </Data></Cell>
+    <Cell><Data ss:Type="String">Bartholome</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/117566632"
+     x:HRefScreenTip="http://d-nb.info/gnd/117566632"><Data ss:Type="String">http://d-nb.info/gnd/117566632</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0074</Data></Cell>
+    <Cell><Data ss:Type="String">Willam</Data></Cell>
+    <Cell><Data ss:Type="String">Strang</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/117306851"
+     x:HRefScreenTip="http://d-nb.info/gnd/117306851"><Data ss:Type="String">http://d-nb.info/gnd/117306851</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0075</Data></Cell>
+    <Cell><Data ss:Type="String">Leon </Data></Cell>
+    <Cell><Data ss:Type="String">L'Hermitte</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118953532"
+     x:HRefScreenTip="http://d-nb.info/gnd/118953532"><Data ss:Type="String">http://d-nb.info/gnd/118953532</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0077</Data></Cell>
+    <Cell><Data ss:Type="String">Giovanni</Data></Cell>
+    <Cell><Data ss:Type="String">Segantini</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118612700"
+     x:HRefScreenTip="http://d-nb.info/gnd/118612700"><Data ss:Type="String">http://d-nb.info/gnd/118612700</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0078</Data></Cell>
+    <Cell><Data ss:Type="String">Teophile</Data></Cell>
+    <Cell><Data ss:Type="String">Steinlen</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118753320"
+     x:HRefScreenTip="http://d-nb.info/gnd/118753320"><Data ss:Type="String">http://d-nb.info/gnd/118753320</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0079</Data></Cell>
+    <Cell><Data ss:Type="String">Wilhelm</Data></Cell>
+    <Cell><Data ss:Type="String">Bernatzik</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/133725774"
+     x:HRefScreenTip="http://d-nb.info/gnd/133725774"><Data ss:Type="String">http://d-nb.info/gnd/133725774</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0080</Data></Cell>
+    <Cell><Data ss:Type="String">Ant (Ville?)</Data></Cell>
+    <Cell><Data ss:Type="String">Vallgren</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/124219403"
+     x:HRefScreenTip="http://d-nb.info/gnd/124219403"><Data ss:Type="String">http://d-nb.info/gnd/124219403</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0081</Data></Cell>
+    <Cell><Data ss:Type="String">Richard</Data></Cell>
+    <Cell><Data ss:Type="String">Luksch</Data></Cell>
+    <Cell ss:StyleID="s23" ss:HRef="http://d-nb.info/gnd/118575244"
+     x:HRefScreenTip="http://d-nb.info/gnd/118575244"><Data ss:Type="String">http://d-nb.info/gnd/118575244</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0082</Data></Cell>
+    <Cell><Data ss:Type="String">Stephan&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">von Miillenkovich</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/117042269"><Data
+      ss:Type="String">http://d-nb.info/gnd/117042269</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0083</Data></Cell>
+    <Cell><Data ss:Type="String">Stanislaw</Data></Cell>
+    <Cell><Data ss:Type="String">Wyspianski</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118635751"><Data
+      ss:Type="String">http://d-nb.info/gnd/118635751</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0084</Data></Cell>
+    <Cell><Data ss:Type="String">Josef Maria </Data></Cell>
+    <Cell><Data ss:Type="String">Auchentaller</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/136355552"><Data
+      ss:Type="String">http://d-nb.info/gnd/136355552</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0085</Data></Cell>
+    <Cell><Data ss:Type="String">Gustav</Data></Cell>
+    <Cell><Data ss:Type="String">Gugitz</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118699067"><Data
+      ss:Type="String">http://d-nb.info/gnd/118699067</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0086</Data></Cell>
+    <Cell><Data ss:Type="String">Paul </Data></Cell>
+    <Cell><Data ss:Type="String">Scheerbart</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118606816"><Data
+      ss:Type="String">http://d-nb.info/gnd/118606816</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0087</Data></Cell>
+    <Cell><Data ss:Type="String">Adolf</Data></Cell>
+    <Cell><Data ss:Type="String">Loos</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/11857423X"><Data
+      ss:Type="String">http://d-nb.info/gnd/11857423X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0089</Data></Cell>
+    <Cell><Data ss:Type="String">Ferdinand von</Data></Cell>
+    <Cell><Data ss:Type="String">Saar</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118604449"><Data
+      ss:Type="String">http://d-nb.info/gnd/118604449</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0090</Data></Cell>
+    <Cell><Data ss:Type="String">Hans</Data></Cell>
+    <Cell><Data ss:Type="String">Watzek</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/124300863"><Data
+      ss:Type="String">http://d-nb.info/gnd/124300863</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0091</Data></Cell>
+    <Cell><Data ss:Type="String">August&#160;von</Data></Cell>
+    <Cell><Data ss:Type="String">Loehr</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118728792"><Data
+      ss:Type="String">http://d-nb.info/gnd/118728792</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0092</Data></Cell>
+    <Cell><Data ss:Type="String">Heinrich </Data></Cell>
+    <Cell><Data ss:Type="String">Kühn</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118567586"
+     x:HRefScreenTip="http://d-nb.info/gnd/118567586"><Data ss:Type="String">http://d-nb.info/gnd/118567586</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0093</Data></Cell>
+    <Cell><Data ss:Type="String">Hugo</Data></Cell>
+    <Cell><Data ss:Type="String">Henneberg</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/136510752"><Data
+      ss:Type="String">http://d-nb.info/gnd/136510752</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0094</Data></Cell>
+    <Cell><Data ss:Type="String">Hans</Data></Cell>
+    <Cell><Data ss:Type="String">Tichy</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1024400662"><Data
+      ss:Type="String">http://d-nb.info/gnd/1024400662</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0095</Data></Cell>
+    <Cell><Data ss:Type="String">Max</Data></Cell>
+    <Cell><Data ss:Type="String">Liebermann</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/137788835"><Data
+      ss:Type="String">http://d-nb.info/gnd/137788835</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0096</Data></Cell>
+    <Cell><Data ss:Type="String">Alfred</Data></Cell>
+    <Cell><Data ss:Type="String">Roller</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118791036"><Data
+      ss:Type="String">http://d-nb.info/gnd/118791036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0097</Data></Cell>
+    <Cell><Data ss:Type="String">Franz</Data></Cell>
+    <Cell><Data ss:Type="String">Skarbina</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/11923873X"><Data
+      ss:Type="String">http://d-nb.info/gnd/11923873X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0098</Data></Cell>
+    <Cell><Data ss:Type="String">Felician von</Data></Cell>
+    <Cell><Data ss:Type="String">Myrbach</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/160218993"><Data
+      ss:Type="String">http://d-nb.info/gnd/160218993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0099</Data></Cell>
+    <Cell><Data ss:Type="String">Gotthardt</Data></Cell>
+    <Cell><Data ss:Type="String">Kuehl</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118934783"><Data
+      ss:Type="String">http://d-nb.info/gnd/118934783</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0100</Data></Cell>
+    <Cell><Data ss:Type="String">Detlev von</Data></Cell>
+    <Cell><Data ss:Type="String">Liliencron</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1014914795"><Data
+      ss:Type="String">http://d-nb.info/gnd/1014914795</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s24"><Data ss:Type="String">kuenstler_0101</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">V.</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">S.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0102</Data></Cell>
+    <Cell><Data ss:Type="String">Otto </Data></Cell>
+    <Cell><Data ss:Type="String">Friedrich</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/1022591916"
+     x:HRefScreenTip="http://d-nb.info/gnd/1022591916"><Data ss:Type="String">http://d-nb.info/gnd/1022591916</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0103</Data></Cell>
+    <Cell><Data ss:Type="String">Ernst</Data></Cell>
+    <Cell><Data ss:Type="String">Stöhr</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/11935635X"><Data
+      ss:Type="String">http://d-nb.info/gnd/11935635X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s24"><Data ss:Type="String">kuenstler_0104</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">S.</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0105</Data></Cell>
+    <Cell><Data ss:Type="String">Paula</Data></Cell>
+    <Cell><Data ss:Type="String">Dehmel</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/116054522"
+     x:HRefScreenTip="http://d-nb.info/gnd/116054522"><Data ss:Type="String">http://d-nb.info/gnd/116054522</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0106</Data></Cell>
+    <Cell><Data ss:Type="String">Adolf</Data></Cell>
+    <Cell><Data ss:Type="String">Bartels</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/117716928"
+     x:HRefScreenTip="http://d-nb.info/gnd/117716928"><Data ss:Type="String">http://d-nb.info/gnd/117716928</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0107</Data></Cell>
+    <Cell><Data ss:Type="String">Otto</Data></Cell>
+    <Cell><Data ss:Type="String">Wagner</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118628399"><Data
+      ss:Type="String">http://d-nb.info/gnd/118628399</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0108</Data></Cell>
+    <Cell><Data ss:Type="String">Jože</Data></Cell>
+    <Cell><Data ss:Type="String">Plečnik</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118594990"><Data
+      ss:Type="String">http://d-nb.info/gnd/118594990</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0109</Data></Cell>
+    <Cell><Data ss:Type="String">Otto Julius</Data></Cell>
+    <Cell><Data ss:Type="String">Bierbaum</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118510762"><Data
+      ss:Type="String">http://d-nb.info/gnd/118510762</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0110</Data></Cell>
+    <Cell><Data ss:Type="String">Karl</Data></Cell>
+    <Cell><Data ss:Type="String">Fischl</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1059245175"><Data
+      ss:Type="String">http://d-nb.info/gnd/1059245175</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0111</Data></Cell>
+    <Cell><Data ss:Type="String">Rudolf</Data></Cell>
+    <Cell><Data ss:Type="String">Nissl</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/117023175"><Data
+      ss:Type="String">http://d-nb.info/gnd/117023175</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0112</Data></Cell>
+    <Cell><Data ss:Type="String">Ilja Jefimowitsch</Data></Cell>
+    <Cell><Data ss:Type="String">Repin</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/11859981X"><Data
+      ss:Type="String">http://d-nb.info/gnd/11859981X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0113</Data></Cell>
+    <Cell><Data ss:Type="String">Max</Data></Cell>
+    <Cell><Data ss:Type="String">Morold</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/117042242"><Data
+      ss:Type="String">http://d-nb.info/gnd/117042242</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0114</Data></Cell>
+    <Cell><Data ss:Type="String">Wilhelm</Data></Cell>
+    <Cell><Data ss:Type="String">Holzamer</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118834142"><Data
+      ss:Type="String">http://d-nb.info/gnd/118834142</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0115</Data></Cell>
+    <Cell><Data ss:Type="String">Teodor</Data></Cell>
+    <Cell><Data ss:Type="String">Axentowicz</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/121329356"><Data
+      ss:Type="String">http://d-nb.info/gnd/121329356</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s24"><Data ss:Type="String">kuenstler_0116</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">L. H.</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Hildesheimer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0117</Data></Cell>
+    <Cell><Data ss:Type="String">Georg</Data></Cell>
+    <Cell><Data ss:Type="String">Einbeck</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/122057295"><Data
+      ss:Type="String">http://d-nb.info/gnd/122057295</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0118</Data></Cell>
+    <Cell><Data ss:Type="String">Ferdinand</Data></Cell>
+    <Cell><Data ss:Type="String">Schenk</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1073476030"><Data
+      ss:Type="String">http://d-nb.info/gnd/1073476030</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0119</Data></Cell>
+    <Cell><Data ss:Type="String">Arno</Data></Cell>
+    <Cell><Data ss:Type="String">Holz</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1075316448"><Data
+      ss:Type="String">http://d-nb.info/gnd/1075316448</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0120</Data></Cell>
+    <Cell><Data ss:Type="String">Rudolf</Data></Cell>
+    <Cell><Data ss:Type="String">Jettmar</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/121161870"><Data
+      ss:Type="String">http://d-nb.info/gnd/121161870</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0121</Data></Cell>
+    <Cell><Data ss:Type="String">Ferdinand</Data></Cell>
+    <Cell><Data ss:Type="String">Brod</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1012672476&#160;"><Data
+      ss:Type="String">http://d-nb.info/gnd/1012672476&#160;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0122</Data></Cell>
+    <Cell><Data ss:Type="String">Alois</Data></Cell>
+    <Cell><Data ss:Type="String">Hänisch</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/140909842"><Data
+      ss:Type="String">http://d-nb.info/gnd/140909842</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0123</Data></Cell>
+    <Cell><Data ss:Type="String">Hugo von</Data></Cell>
+    <Cell><Data ss:Type="String">Hofmannsthal</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/160383862"><Data
+      ss:Type="String">http://d-nb.info/gnd/160383862</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0124</Data></Cell>
+    <Cell><Data ss:Type="String">Maurice</Data></Cell>
+    <Cell><Data ss:Type="String">Maeterlink</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118576089"><Data
+      ss:Type="String">http://d-nb.info/gnd/118576089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0125</Data></Cell>
+    <Cell><Data ss:Type="String">Franz</Data></Cell>
+    <Cell><Data ss:Type="String">Servaes</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/117467979"
+     x:HRefScreenTip="http://d-nb.info/gnd/117467979"><Data ss:Type="String">http://d-nb.info/gnd/117467979</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0126</Data></Cell>
+    <Cell><Data ss:Type="String">Edmund</Data></Cell>
+    <Cell><Data ss:Type="String">Hellmer</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/129078786"
+     x:HRefScreenTip="http://d-nb.info/gnd/129078786"><Data ss:Type="String">http://d-nb.info/gnd/129078786</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0127</Data></Cell>
+    <Cell><Data ss:Type="String">Adolf</Data></Cell>
+    <Cell><Data ss:Type="String">Hölzel</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118552058"
+     x:HRefScreenTip="http://d-nb.info/gnd/118552058"><Data ss:Type="String">http://d-nb.info/gnd/118552058</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0128</Data></Cell>
+    <Cell><Data ss:Type="String">Ricarda</Data></Cell>
+    <Cell><Data ss:Type="String">Huch</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="https://www.wikidata.org/wiki/Q60785"><Data
+      ss:Type="String">https://www.wikidata.org/wiki/Q60785</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0129</Data></Cell>
+    <Cell><Data ss:Type="String">Carl</Data></Cell>
+    <Cell><Data ss:Type="String">Müller</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/139435824"
+     x:HRefScreenTip="http://d-nb.info/gnd/139435824"><Data ss:Type="String">http://d-nb.info/gnd/139435824</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0130</Data></Cell>
+    <Cell><Data ss:Type="String">Jan</Data></Cell>
+    <Cell><Data ss:Type="String">Stanislawski</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/128628332"
+     x:HRefScreenTip="http://d-nb.info/gnd/128628332"><Data ss:Type="String">http://d-nb.info/gnd/128628332</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s24"><Data ss:Type="String">kuenstler_0131</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Wilhelm</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">Sch?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0132</Data></Cell>
+    <Cell><Data ss:Type="String">Gustav</Data></Cell>
+    <Cell><Data ss:Type="String">Gurschner</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/1019053984"
+     x:HRefScreenTip="http://d-nb.info/gnd/1019053984"><Data ss:Type="String">http://d-nb.info/gnd/1019053984</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0133</Data></Cell>
+    <Cell><Data ss:Type="String">Ludwig</Data></Cell>
+    <Cell><Data ss:Type="String">Dill</Data></Cell>
+    <Cell ss:StyleID="s23" ss:HRef="http://d-nb.info/gnd/118525700"
+     x:HRefScreenTip="http://d-nb.info/gnd/118525700"><Data ss:Type="String">http://d-nb.info/gnd/118525700</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0134</Data></Cell>
+    <Cell><Data ss:Type="String">Eugen</Data></Cell>
+    <Cell><Data ss:Type="String">Jettel</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/13770822X"><Data
+      ss:Type="String">http://d-nb.info/gnd/13770822X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0135</Data></Cell>
+    <Cell><Data ss:Type="String">Waclaw</Data></Cell>
+    <Cell><Data ss:Type="String">Szimanowski</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/174278330"
+     x:HRefScreenTip="http://d-nb.info/gnd/174278330"><Data ss:Type="String">http://d-nb.info/gnd/174278330</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0136</Data></Cell>
+    <Cell><Data ss:Type="String">Julius von </Data></Cell>
+    <Cell><Data ss:Type="String">Kollmann</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/1077886160"><Data
+      ss:Type="String">http://d-nb.info/gnd/1077886160</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0137</Data></Cell>
+    <Cell><Data ss:Type="String">Constantin</Data></Cell>
+    <Cell><Data ss:Type="String">Laszczka</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/1128761475"
+     x:HRefScreenTip="http://d-nb.info/gnd/1128761475"><Data ss:Type="String">http://d-nb.info/gnd/1128761475</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0138</Data></Cell>
+    <Cell><Data ss:Type="String">Fritz von</Data></Cell>
+    <Cell><Data ss:Type="String">Uhde</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/118816632"><Data
+      ss:Type="String">http://d-nb.info/gnd/118816632</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0139</Data></Cell>
+    <Cell><Data ss:Type="String">Peter</Data></Cell>
+    <Cell><Data ss:Type="String">Behrens</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118508466"
+     x:HRefScreenTip="http://d-nb.info/gnd/118508466"><Data ss:Type="String">http://d-nb.info/gnd/118508466</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0140</Data></Cell>
+    <Cell><Data ss:Type="String">Oskar</Data></Cell>
+    <Cell><Data ss:Type="String">Fried</Data></Cell>
+    <Cell ss:StyleID="s16" ss:HRef="http://d-nb.info/gnd/116791357"><Data
+      ss:Type="String">http://d-nb.info/gnd/116791357</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0141</Data></Cell>
+    <Cell><Data ss:Type="String">Jaroslav</Data></Cell>
+    <Cell><Data ss:Type="String">Vrchlicky</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118805789"
+     x:HRefScreenTip="http://d-nb.info/gnd/118805789"><Data ss:Type="String">http://d-nb.info/gnd/118805789</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0142</Data></Cell>
+    <Cell><Data ss:Type="String">Alois E.</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;Tluchor</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/119410885"
+     x:HRefScreenTip="http://d-nb.info/gnd/119410885"><Data ss:Type="String">http://d-nb.info/gnd/119410885</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">kuenstler_0143</Data></Cell>
+    <Cell><Data ss:Type="String">Richard</Data></Cell>
+    <Cell><Data ss:Type="String">Dehmel</Data></Cell>
+    <Cell ss:StyleID="s17" ss:HRef="http://d-nb.info/gnd/118679236"
+     x:HRefScreenTip="http://d-nb.info/gnd/118679236"><Data ss:Type="String">http://d-nb.info/gnd/118679236</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s24"><Data ss:Type="String">kuenstler_0144</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">M.</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>60</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>73</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
